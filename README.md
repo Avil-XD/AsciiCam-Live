@@ -4,7 +4,7 @@
 
 ### Transform Your World Into ASCII Art, Instantly
 
-[Try it Now!](https://avil-xd.github.io/AsciiCam-Live/)
+👉        [Try it Now!](https://avil-xd.github.io/AsciiCam-Live/)
 
 ![AsciiCam Live Demo](./demo.gif)
 
