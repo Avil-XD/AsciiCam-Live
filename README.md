@@ -4,7 +4,7 @@
 
 ### Transform Your World Into ASCII Art, Instantly
 
-[Try it Now!](https://yourusername.github.io/ascii-cam-live)
+[Try it Now!](https://avil-xd.github.io/AsciiCam-Live/)
 
 ![AsciiCam Live Demo](./demo.gif)
 
@@ -12,7 +12,7 @@ Turn your webcam feed into stunning ASCII art in real-time. No installation, no 
 
 [![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-yellow.svg)](https://javascript.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Mobile Friendly](https://img.shields.io/badge/Mobile-Friendly-green.svg)](https://yourusername.github.io/ascii-cam-live)
+[![Mobile Friendly](https://img.shields.io/badge/Mobile-Friendly-green.svg)](https://avil-xd.github.io/AsciiCam-Live/)
 
 </div>
 
@@ -20,7 +20,7 @@ Turn your webcam feed into stunning ASCII art in real-time. No installation, no 
 
 ## ✨ Instant Art Creation
 
-1. 📱 Open [AsciiCam Live](https://avil-xd.github.io/ascii-cam-live) on any device
+1. 📱 Open [AsciiCam Live](https://avil-xd.github.io/AsciiCam-Live/) on any device
 2. 🎥 Allow camera access
 3. 🎨 Customize your ASCII art with simple controls
 4. 💾 Save your creation with one click
@@ -37,7 +37,7 @@ Turn your webcam feed into stunning ASCII art in real-time. No installation, no 
 
 ## 🎮 Quick Start
 
-Visit [https://avil-xd.github.io/ascii-cam-live] or run locally:
+Visit [https://avil-xd.github.io/AsciiCam-Live/] or run locally:
 
 1. Clone the repository
 ```bash
