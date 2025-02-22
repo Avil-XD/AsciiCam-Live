@@ -41,7 +41,7 @@ Visit [https://avil-xd.github.io/AsciiCam-Live/] or run locally:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ascii-cam-live.git
+git clone https://github.com/avil-xd/ascii-cam-live.git
 cd ascii-cam-live
 ```
 
